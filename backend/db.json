@@ -1,0 +1,39 @@
+{
+  "opinions": [
+    {
+      "id": 1756896328310,
+      "votes": 0,
+      "userName": "Arun",
+      "title": "React founded by",
+      "body": "React is created by facebook team to be used within their organization."
+    },
+    {
+      "id": 1756886650846,
+      "votes": 4,
+      "userName": "Madara",
+      "title": "React Components",
+      "body": "React is a component based framework, which is very useful for code splitting and to work on larger projects."
+    },
+    {
+      "id": 1756882915491,
+      "votes": -1,
+      "userName": "Arun",
+      "title": "React",
+      "body": "React is the best framework for frontend and larger applications."
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
