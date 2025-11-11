@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 
 import express from 'express';
+import cors from 'cors';
 
 async function loadOpinions() {
   try {
